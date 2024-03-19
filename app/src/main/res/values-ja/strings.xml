@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="date_of_birth">生年月日: 27.05.2004</string>
+    <string name="hobby">趣味：3年間のパワーリフティング、本や詩を書く。</string>
+    <string name="about_me">私について</string>
+    <string name="full_name">コノズ-ヴェラ-グリゴリエフナ</string>
+</resources>
